@@ -4,7 +4,6 @@ let numero = prompt ("Ingrese un numero")
 
 let digitos = numero.length;
 
-
 if (numero >= 0){
     alert ("El numero tiene " + digitos + " digitos.");
 } else {

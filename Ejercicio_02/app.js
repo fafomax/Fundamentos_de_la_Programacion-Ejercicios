@@ -8,7 +8,4 @@ let textoMayuscula = texto.toUpperCase();
 
 alert ("Texto en Minuscula: " + textoMinuscula + "\nTexto Mayuscula: " + textoMayuscula);
 
-
-
-
 // toLowerCase() para convertir a «minúsculas», y la función toUpperCase()

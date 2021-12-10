@@ -5,4 +5,3 @@ let palabra = prompt ("Ingrese una palabra: ")
 let letra = palabra.charAt(0);
 
 alert ("La primera letra de la palabra es: " + letra)
-
