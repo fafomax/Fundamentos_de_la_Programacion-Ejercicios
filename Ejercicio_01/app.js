@@ -7,3 +7,4 @@ if (string1.includes("a")){
 } else {
     alert("La palabra NO incluye la letra a");
 }
+
