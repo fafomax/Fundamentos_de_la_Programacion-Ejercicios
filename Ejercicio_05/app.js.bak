@@ -1,0 +1,7 @@
+// 05. Solicitar a un usuario que ingrese un número y devolver cuántos dígitos tiene.
+
+let numero = prompt ("Ingrese un numero")
+
+let digitos = numero.length;
+
+alert ("El numero tiene " + digitos + " digitos.")
