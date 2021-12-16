@@ -5,4 +5,4 @@ Ejercicios hechos en conjunto por el <b>Grupo 6</b>
 <br>
 <br>
 <br>
-<i>Hasta el momento tenemos terminado las cadenas de texto y algunos puntos de los condicionales.</i>
+<i>Hasta el momento tenemos terminado las cadenas de texto y hasta el ejercicio 8 de los condicionales.</i>
