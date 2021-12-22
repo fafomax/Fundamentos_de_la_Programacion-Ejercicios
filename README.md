@@ -5,6 +5,6 @@ Ejercicios hechos en conjunto por el <b>Grupo 6</b>
 <br>
 <br>
 <br>
-<i>Ya resuelto todos los ejercicios resueltos. 👍 </i>
+<i>Todos los ejercicios ya resueltos. 👍 </i>
 <br>
 :smiley: :muscle: :rocket:
